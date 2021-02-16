@@ -1,0 +1,14 @@
+<div class="row justify-content-center">
+                            <div class="col-md-12">
+                            <div class="d-flex justify-content-center">
+                                <div class="btn btn-mdb-color btn-rounded float-left">
+                                <span>Logo Penyelenggara</span>
+                                <input type="file">
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+
+
+
+==============
